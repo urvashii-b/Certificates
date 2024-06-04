@@ -15,5 +15,6 @@
   </tr>
   <tr>
     <td><img src="sql_basic certificate.png" alt="sql_basic certificate" width="300"></td>
+    <td><img src="cohort certificate.png" alt="cohort certificate" width="300"></td>
   </tr>
 </table>
